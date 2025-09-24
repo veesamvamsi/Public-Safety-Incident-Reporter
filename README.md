@@ -56,3 +56,8 @@ A full-stack web application for reporting and managing public transport inciden
 - Database: MongoDB
 - Authentication: NextAuth.js
 - Charts: Chart.js
+
+## Deployment Link
+http://localhost:3000/
+
+
