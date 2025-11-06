@@ -57,7 +57,6 @@ A full-stack web application for reporting and managing public transport inciden
 - Authentication: NextAuth.js
 - Charts: Chart.js
 
-## Deployment Link
-http://localhost:3000/
+
 
 
